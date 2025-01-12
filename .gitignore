@@ -1,0 +1,10 @@
+/.venv
+/build
+/build-0
+/client_gui.spec
+/dist
+/GamepadClient.spec
+/GamepadClientV0.1.spec
+/Gamepadserver.spec
+/Gamepad接收端.spec
+/test.py
